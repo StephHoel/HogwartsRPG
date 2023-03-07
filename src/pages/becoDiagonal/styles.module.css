@@ -1,0 +1,13 @@
+.div {
+   --tw-bg-opacity: 1;
+   
+   color: red;
+   display: flex;
+   width: 100%;
+   
+   background-color: rgb(6 182 212 / var(--tw-bg-opacity));
+}
+
+.div h1{ 
+   color: blue;
+}
